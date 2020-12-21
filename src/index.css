@@ -1,0 +1,18 @@
+body {
+  background-color:rgb(0, 132, 255);
+}
+img{
+
+  border: solid;
+  width: 100px;
+
+}
+
+.otros{border:2px solid rebeccapurple;
+
+display:-webkit-flex 
+}
+.nuevo{
+  border:2px solid springgreen;
+  flex: 1 1 100px;
+}
